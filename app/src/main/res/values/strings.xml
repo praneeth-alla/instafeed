@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">InstaFeed</string>
+    <string name="likes">" Likes"</string>
+    <string name="ago">" ago"</string>
+    <string name="log_out">Logout</string>
+    <string name="like_failed">Photo Like Failed</string>
+    <string name="dislike_failed">Photo DisLike Failed</string>
+    <string name="get_media_failed">Failed to fetch media</string>
+    <string name="detail_title">Photo</string>
+    <string name="home_title">Feed</string>
+    <string name="login_title">Login</string>
+    <string name="company">23andMe</string>
+</resources>
